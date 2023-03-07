@@ -9,23 +9,29 @@ color-scheme: auto
 
 platforms:
   - name: Pagina Personale
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    icon: <i class="fa-solid fa-globe"></i>
+    link: https://zeruhur.space
   - name: Zotiquest Games
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    icon: <i class="fa-solid fa-globe"></i>
+    link: https://games.zeruhur.space
   - name: Italian Translation Alliance
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    icon: <i class="fa-solid fa-globe"></i>
+    link: https://italiantranslationalliance.org/
   - name: itch.io
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    icon: <i class="fa-brands fa-itch-io"></i>
+    link: https://zeruhur.itch.io/
   - name: Syrinx (blog italiano)
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    icon: <i class="fa-sharp fa-solid fa-blog"></i>
+    link: https://syrinx.zeruhur.space
   - name: Zotiquest (blog inglese)
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    icon: <i class="fa-sharp fa-solid fa-blog"></i>
+    link: https://zotiquest.zeruhur.space
+  - name: Eclectica GDR
+    icon: <i class="fa-sharp fa-solid fa-blog"></i>
+    link: https://www.eclecticagdr.it/
+  - name: Il Ruolatore Solitario
+    icon: <i class="fa-sharp fa-solid fa-blog"></i>
+    link: https://ruolatoresolitario.wordpress.com/
     
 navigation:
   - name: Home
