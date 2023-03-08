@@ -33,12 +33,6 @@
 </div>
 
 <div class="card">
-  <h3>Selkie</h3>
-  <p><b>Una razza come classe per BX</b></p>
-  <a href="https://syrinx.zeruhur.space/materiali/2021/02/03/selkie/"><span class="card-link-spanner"></span></a>
-</div>
-
-<div class="card">
   <h3>L'avventuriero</h3>
   <p><b>Classe unica per la Scatola Bianca</b></p>
   <a href="https://syrinx.zeruhur.space/regolamenti/2021/05/20/avventuriero//"><span class="card-link-spanner"></span></a>
