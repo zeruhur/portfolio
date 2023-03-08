@@ -4,7 +4,7 @@
 
 <div class="card">
   <h3>Loner</h3>
-  <p><b>Regolamento minimalista di gioco di ruolo solitario/b></p>
+  <p><b>Regolamento minimalista di gioco di ruolo solitario</b></p>
   <a href="https://loner.zeruhur.space/#/it/loner-ita/"><span class="card-link-spanner"></span></a>
 </div>
 
