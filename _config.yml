@@ -36,8 +36,16 @@ platforms:
 navigation:
   - name: Home
     link: ./index.html
- #   sublist:
- #     - name: Image
- #       link: ./index.html#small-image
+  - name: Articoli
+    link: ./articoli.html   
+  - name: Canali & Comunità
+    link: ./canali_comunita.html
+  - name: Giochi
+    link: ./giochi.html
   - name: Traduzioni
-    link: ./traduzioni.html
+    link: ./traduzioni.html 
+  - name: Video & Presentazioni
+    link: ./video_presentazioni.html    
+    #   sublist:
+    #     - name: Image
+    #       link: ./index.html#small-image
