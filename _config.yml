@@ -28,8 +28,10 @@ navigation:
     link: ./articoli.html   
   - name: Canali & Comunità
     link: ./canali_comunita.html
-  - name: Giochi
-    link: ./giochi.html
+  - name: GDR
+    link: ./gdr.html
+  - name: GDR Solitari
+    link: ./gdrs.html
   - name: Traduzioni
     link: ./traduzioni.html 
   - name: Video & Presentazioni
