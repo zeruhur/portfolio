@@ -1,29 +1,17 @@
-# Zeruhur: Giochi di ruolo e traduzioni
+# Zeruhur: l'utilità dell'inutile
 
 Roberto, classe 1984. Nerd impenitente, da sempre appassionato di fantascienza e narrativa.
 
-Da ragazzino avrei voluto giocare di ruolo, ma non avevo un gruppo ed ero troppo timido per cercarne. All’università ebbi finalmente l’occasione di frequentare un gruppo e giocammo a una versione raffazzonata e completamente a caso di D&D 3.5 e contemporaneamente frequentai alcuni LARP di Vampiri nella provincia di La Spezia. La prima esperienza si concluse perché il gruppo si dedicò al soft air (!), l’altra perché non mi piaceva l’atteggiamento dei giocatori di LARP (anni dopo scoprii che era un sentimento comune a chi era fuori da quell’ambiente).
-Dopodiché, crisi di rigetto e cose della vita (la tesi, i primi lavori 12/7, le solite cose da medio ventenni insomma…) mi tennero fuori dal giro.
+Innanzitutto, sono un geek appassionato. Esploro costantemente nuovi orizzonti tecnologici, ma è anche una continua avventura nel vasto universo digitale.
 
-Mi sono interessato di nuovo nell’estate del 2019, dapprima ho fatto incetta di *Risus* e *Lasers & Feelings* e tutti gli hack disponibili in giro. Poi ho comprato *Le cronache di Andor* perché era in offerta e mi era tornata voglia di dungeon delving. Poi è scoppiata la pandemia e il gruppo di amici con cui giocavo Andor è rimasto chiaramente diviso e mi sono improvvisato master con *Sword & Six-siders*. Non mi sono più fermato.
+La mia vita interiore è profondamente influenzata dal taoismo, che mi offre una prospettiva equilibrata e armoniosa sull'esistenza. Cerco di applicare questa filosofia alla mia vita (non sempre con successo), alla mia ricerca di equilibrio interiore.
 
-I miei GDR preferiti sono:
+Nel mondo dei giochi di ruolo, amo far emergere storie avvincenti e inaspettate, sia da [solo](/gdrs.md) che in gruppo. Mi diletto anche a scrivere e autopubblicare [regolamenti, ambientazioni e avventure](/gdr.md).
 
-- [*La Scatola Bianca*](https://lascatolabianca.italiantranslationalliance.org/) e *Swords & Wizardry*
-- *Classic Traveller* e [*Cepheus Engine*](http://cepheusengine.italiantranslationalliance.org/) (che ho tradotto con delle [belle persone](https://italiantranslationalliance.org/))
-- In generale tutto ciò che è Old School/R...
-- ...e tutto ciò che è tag-based e minimalista
-- Penso anche che se non fossimo troppo esigenti [*Risus*](https://zeruhur.itch.io/risus-il-qualsiasi-gdr) e il suo [*Companion*](https://www.drivethrurpg.com/product/203657/Risus-Companion) sarebbero più che sufficienti.
+Sono un hajin dilettante, ovvero mi dedico alla composizione di haiku. Questa forma d'arte mi costringe ad esprimere pensieri e sentimenti in poche, ma precise parole.
 
-Sono membro il membro #1511 dell’International Order of Risus.
+Sono anche un [avido lettore](https://www.goodreads.com/user/show/4952964-zeruhur), con un amore particolare per la narrativa fantasy, fantascientifica e weird, esplorando mondi dove l'immaginario e l'insolito prendono vita. La filosofia, sia occidentale che orientale, è un'altra mia grande passione, dove immergo la mente in riflessioni su esistenza, etica e conoscenza.
 
-Potete trovarmi in diversi posti tra cui:
+Nel mio tempo libero, mi trasformo in fotografo amatoriale, catturando momenti di bellezza quotidiana attraverso l'obiettivo. E come runner, trovo la mia pace nel ritmo costante dei passi, che mi permette di riflettere e ricaricarmi.
 
-- [Ruling the Game](https://t.me/osritalia), gruppo Telegram italiano dedicato agli OSR
-- [Eclectica GDR](https://t.me/eclecticagdrchat), gruppo Telegram italiano da me fondato basato sui principi di condivisione, eclettismo e antisettarismo
-- [Ruolatori Solitari](https://t.me/ruolatorisolitari), gruppo Telegram dedicato ai giocatori di ruolo solitari
-- [Cthulhu Dark Italia](https://t.me/cthuhudarkitalia), gruppo Telegram dedicato al gioco di ruolo minimalista lovecraftiano di Graham Walmsley.
-- [La Locanda dei GDR](https://forum.locandagdr.it/), forum dedicato ai GDR
-- In generale su [Telegram](https://t.me/zeruhur)
-
-Nel menù a sinistra potete navigare le varie iniziative su cui sono coinvolto nell'ambito dei GDR
+Se sei interessato alle mie peregrinazioni mentali, ti invito a visitare il mio [Giardino Digitale](https://giardinodigitale.zeruhur.icu). Altrimenti se preferisci riflessioni più coerenti, puoi leggere il mio [blog](https://blog.zeruhur.icu).

@@ -1,37 +1,25 @@
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
-title: Zeruhur's Portfolio
-description: Una lista curata dei miei progetti GDR
+title: Portofolio di Zeruhur
+description: Una lista curata dei miei progetti
 color-scheme: auto
 
 #logo: /assets/img/logo.png
 #favicon: true
 
 platforms:
-  - name: Pagina Personale
+  - name: Hub Personale
     icon: <i class="fa-solid fa-globe"></i>
-    link: https://zeruhur.space
-  - name: Zotiquest Games
+    link: https://zeruhur.icu
+  - name: holism in the attic (blog)
     icon: <i class="fa-solid fa-globe"></i>
-    link: https://games.zeruhur.space
-  - name: Italian Translation Alliance
+    link: https://blog.zeruhur.icu
+  - name: Giardino Digitale
     icon: <i class="fa-solid fa-globe"></i>
-    link: https://italiantranslationalliance.org/
-  - name: itch.io
-    icon: <i class="fa-brands fa-itch-io"></i>
-    link: https://zeruhur.itch.io/
-  - name: Syrinx (blog italiano)
-    icon: <i class="fa-sharp fa-solid fa-blog"></i>
-    link: https://syrinx.zeruhur.space
-  - name: Zotiquest (blog inglese)
-    icon: <i class="fa-sharp fa-solid fa-blog"></i>
-    link: https://zotiquest.zeruhur.space
-  - name: Eclectica GDR
-    icon: <i class="fa-sharp fa-solid fa-blog"></i>
-    link: https://www.eclecticagdr.it/
-  - name: Il Ruolatore Solitario
-    icon: <i class="fa-sharp fa-solid fa-blog"></i>
-    link: https://ruolatoresolitario.wordpress.com/
+    link: https://giardinodigitale.zeruhur.icu
+  - name: Zotiquest Games (Etichetta GDR)
+    icon: <i class="fa-solid fa-globe"></i>
+    link: https://it.zotiquestgames.com
     
 navigation:
   - name: Home

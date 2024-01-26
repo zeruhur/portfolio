@@ -1,4 +1,4 @@
-# Traduzioni
+# Traduzioni GDR
 
 ## Giochi
 
