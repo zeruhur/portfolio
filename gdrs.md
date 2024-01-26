@@ -87,12 +87,6 @@ Quando mi sono riavvicinato ai GDR nel 2020 ho focalizzato la mia attenzione sul
 </div>
 
 <div class="card">
-  <h3>Alcuni principi per GDRS</h3>
-  <p><b></b></p>
-  <a href="https://www.ruolatorisolitari.it/2023/06/08/alcuni-principi-per-gdrs/"><span class="card-link-spanner"></span></a>
-</div>
-
-<div class="card">
   <h3>Come un personaggio agisce</h3>
   <p><b>Le funzioni diverse dell’oracolo e delle abilità</b></p>
   <a href="https://www.ruolatorisolitari.it/2023/11/16/come-un-personaggio-agisce-le-funzioni-diverse-delloracolo-e-delle-abilita/"><span class="card-link-spanner"></span></a>
